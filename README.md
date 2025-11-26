@@ -49,4 +49,4 @@ Trabajo con tecnologías actuales y siempre estoy aprendiendo algo nuevo para me
 
 ---
 
-✨ *Gracias por visitar mi perfil. Estoy construyendo cosas nuevas todo el tiempo. ¡Volvé cuando quieras!*  
+✨ *Gracias por visitar mi perfil.*  

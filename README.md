@@ -1,5 +1,5 @@
 # 👋 Hola, soy Andres 
-### 🧑‍💻 Desarrollador Junior
+### 🧑‍💻 Desarrollador
 
 Trabajo con **Next.js, React, Vue, Node.js, TailwindCSS, Linux, Git y Vercel**.  
 Me gusta crear aplicaciones web modernas y seguir aprendiendo cada día.
